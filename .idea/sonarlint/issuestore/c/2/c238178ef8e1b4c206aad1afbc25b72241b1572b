@@ -1,0 +1,8 @@
+
+[
+java:S1854">Remove this useless assignment to local variable "consonants".(í²èè8œ´ŠÉþ1
+L
+java:S1481"/Remove this unused "consonants" local variable.(í²èè8ž´ŠÉþ1
+F	java:S106
+"+Replace this use of System.out by a logger.(ðº‹+8¡´ŠÉþ1
+G	java:S106"+Replace this use of System.out by a logger.(ÇÅÒŸ8£´ŠÉþ1
