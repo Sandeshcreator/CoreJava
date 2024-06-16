@@ -1,6 +1,5 @@
 package com.abctech.projectcore.condition;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Eureka {
