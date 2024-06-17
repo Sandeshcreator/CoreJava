@@ -49,3 +49,13 @@ c
 3src/com/abctech/projectcore/Function/SumReturn.java,e\a\eaef4719a4e189d9005e4ac0d5f9054b227bd7e8
 g
 7src/com/abctech/projectcore/Function/ProductReturn.java,d\6\d6cf13a5e16edd50eccdb35b9b6697eab004ab7b
+f
+6src/com/abctech/projectcore/Function/CheckAnagram.java,9\3\933735303ff1d340e03c589daa4369c8482b1497
+j
+:src/com/abctech/projectcore/Function/CircleCalculator.java,d\3\d3c5df146e1c11070deac0585110e490d055003e
+f
+6src/com/abctech/projectcore/Function/VoteEligible.java,5\2\52b4ae47343d1e9a181332c167fc9d5d3e725de0
+j
+:src/com/abctech/projectcore/Function/FactorialNumbear.java,4\7\47468c1ef5c1f30223cfd1091ae6999143500f72
+i
+9src/com/abctech/projectcore/Function/FactorialNumber.java,d\8\d8c232a019546908af9f0abbb659a41ca30655ba
