@@ -24,8 +24,8 @@ public class VowelChecks {
 
 
         for (int i = 0; i <word.length()-1 ; i++) {
-            char ch = word.charAt(i);
-            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+            char chr = word.charAt(i);
+            if (chr == 'a' || chr == 'e' || chr == 'i' || chr == 'o' || chr == 'u') {
                 return true;
             }
         }

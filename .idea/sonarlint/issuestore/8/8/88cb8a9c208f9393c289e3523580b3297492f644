@@ -1,0 +1,6 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùĞµJ$6144308a-ab19-4025-a384-dc35a6cc833e
+r	java:S106"+Replace this use of System.out by a logger.(°ªßîıÿÿÿÿ8êÎõ³‚2J$633d7969-e099-4764-9429-b9623e727dcd
+m	java:S106"+Replace this use of System.out by a logger.(Ş¨ÃÆ8úÎõ³‚2J$4fbb705c-7910-40d4-99f4-e25214051b7e
+‚
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8üõ³‚2J$cfa277b4-4c43-4e74-8abc-92a1ae3ab12a
