@@ -1,0 +1,6 @@
+
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·«›!J$457d78d5-43ec-40fe-b5c0-5dfeae229aa2
+o
+java:S1481"3Remove this unused "reversedNumber" local variable.(Âö°þJ$fe09ad87-f561-4080-a286-54acc3de36e9
+k	java:S106"+Replace this use of System.out by a logger.(†äÿÄüÿÿÿÿJ$522b925b-98bc-4a48-8bb0-db931a4bb9c6
+w	java:S125"<This block of commented-out lines of code should be removed.(Ë”ðJ$f66087dc-d057-4270-869b-1e9f404141f8

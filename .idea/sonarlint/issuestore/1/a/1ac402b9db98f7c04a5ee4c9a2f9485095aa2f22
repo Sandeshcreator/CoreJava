@@ -1,30 +1,30 @@
 
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8Û±ŠÉş1
-L	java:S106"+Replace this use of System.out by a logger.(¡ Ó›ùÿÿÿÿ8ë±ŠÉş1
-G	java:S106
-"+Replace this use of System.out by a logger.(³¬¾‹8í±ŠÉş1
-G	java:S106"+Replace this use of System.out by a logger.(ê¬Ò†8ğ±ŠÉş1
-L	java:S106"+Replace this use of System.out by a logger.(ìôé«üÿÿÿÿ8ñ±ŠÉş1
-G	java:S106"+Replace this use of System.out by a logger.(¥òÕ¦8ò±ŠÉş1
-L	java:S106"+Replace this use of System.out by a logger.(‹§Ğ¹ùÿÿÿÿ8ó±ŠÉş1
-G	java:S106"+Replace this use of System.out by a logger.(ş†’Ô8õ±ŠÉş1
-G	java:S106!"+Replace this use of System.out by a logger.(” á8õ±ŠÉş1
-L	java:S106#"+Replace this use of System.out by a logger.(±…·ÿÿÿÿÿ8ù±ŠÉş1
-L	java:S106%"+Replace this use of System.out by a logger.(—©°Æøÿÿÿÿ8ú±ŠÉş1
-F	java:S106("+Replace this use of System.out by a logger.(ÁŸ.8û±ŠÉş1
-G	java:S1065"+Replace this use of System.out by a logger.(Á˜œì8ı±ŠÉş1
-G	java:S1067"+Replace this use of System.out by a logger.(ÊÆÌ³8ÿ±ŠÉş1
-G	java:S1069"+Replace this use of System.out by a logger.(óÌØó8€²ŠÉş1
-L	java:S106D"+Replace this use of System.out by a logger.(Ğãîªùÿÿÿÿ8‚²ŠÉş1
-L	java:S106F"+Replace this use of System.out by a logger.(è“½„øÿÿÿÿ8„²ŠÉş1
-G	java:S106H"+Replace this use of System.out by a logger.(ƒò·î8…²ŠÉş1
-L	java:S106J"+Replace this use of System.out by a logger.(¢´Ò²ÿÿÿÿÿ8ˆ²ŠÉş1
-L	java:S106b"+Replace this use of System.out by a logger.(Ó…“Èıÿÿÿÿ8Š²ŠÉş1
-X	java:S125Q"<This block of commented-out lines of code should be removed.(¥ÇÂ“8²ŠÉş1
-L	java:S106f"+Replace this use of System.out by a logger.(½Ø ÿüÿÿÿÿ8²ŠÉş1
-G	java:S106k"+Replace this use of System.out by a logger.(éÈïÿ8•²ŠÉş1
-L	java:S106p"+Replace this use of System.out by a logger.(ó©·°ùÿÿÿÿ8š²ŠÉş1
-L	java:S106u"+Replace this use of System.out by a logger.(ÖÕ­Âıÿÿÿÿ8²ŠÉş1
-G	java:S106z"+Replace this use of System.out by a logger.(òæ›8 ²ŠÉş1
-G	java:S106~"+Replace this use of System.out by a logger.(ê¿£8¡²ŠÉş1
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8Û±ŠÉş1J$a0005c5a-8a38-4c10-b6c8-2799b640d25c
+r	java:S106"+Replace this use of System.out by a logger.(¡ Ó›ùÿÿÿÿ8ë±ŠÉş1J$7c6d7e75-c105-4bfc-a134-c1c1887cf856
+m	java:S106
+"+Replace this use of System.out by a logger.(³¬¾‹8í±ŠÉş1J$b996f0a7-e09f-4b16-8763-7d1626d88dbb
+m	java:S106"+Replace this use of System.out by a logger.(ê¬Ò†8ğ±ŠÉş1J$5361d4e4-2ef0-4cb7-aa5c-e6923f69d6cb
+r	java:S106"+Replace this use of System.out by a logger.(ìôé«üÿÿÿÿ8ñ±ŠÉş1J$aa8fa929-34a2-467a-b9c6-b4723f01c7c5
+m	java:S106"+Replace this use of System.out by a logger.(¥òÕ¦8ò±ŠÉş1J$254147f5-794f-423a-bb7a-b2993183601c
+r	java:S106"+Replace this use of System.out by a logger.(‹§Ğ¹ùÿÿÿÿ8ó±ŠÉş1J$88d6ebc1-2bb3-4546-9d57-13bc1c992306
+m	java:S106"+Replace this use of System.out by a logger.(ş†’Ô8õ±ŠÉş1J$3563579d-9c91-4fcb-9d1d-e09aa7a544e9
+m	java:S106!"+Replace this use of System.out by a logger.(” á8õ±ŠÉş1J$8936e109-3695-45b0-9775-1f786bf6e1e0
+r	java:S106#"+Replace this use of System.out by a logger.(±…·ÿÿÿÿÿ8ù±ŠÉş1J$dd9c68cc-9481-41a7-b631-616e0725a7b7
+r	java:S106%"+Replace this use of System.out by a logger.(—©°Æøÿÿÿÿ8ú±ŠÉş1J$04b2502b-b221-4b38-ba6a-807f0f8d9eb5
+l	java:S106("+Replace this use of System.out by a logger.(ÁŸ.8û±ŠÉş1J$9f7c86c6-b927-48dd-a5b3-cb5f658bb264
+m	java:S1065"+Replace this use of System.out by a logger.(Á˜œì8ı±ŠÉş1J$c04a397f-ecf0-4fbd-8cfd-0e19c8a94917
+m	java:S1067"+Replace this use of System.out by a logger.(ÊÆÌ³8ÿ±ŠÉş1J$5c2fc0b3-1515-44f5-9c14-c86f04d4c382
+m	java:S1069"+Replace this use of System.out by a logger.(óÌØó8€²ŠÉş1J$c3e947e2-4f42-4584-8252-9e744acd10a9
+r	java:S106D"+Replace this use of System.out by a logger.(Ğãîªùÿÿÿÿ8‚²ŠÉş1J$6e88f4f7-12ab-42f4-a3d2-ef872a9e518c
+r	java:S106F"+Replace this use of System.out by a logger.(è“½„øÿÿÿÿ8„²ŠÉş1J$9a02341a-ad72-4c23-8339-c1baecbd06b9
+m	java:S106H"+Replace this use of System.out by a logger.(ƒò·î8…²ŠÉş1J$a1bedebf-5a6f-400d-b9c7-68704ad9fae0
+r	java:S106J"+Replace this use of System.out by a logger.(¢´Ò²ÿÿÿÿÿ8ˆ²ŠÉş1J$0cdf765d-61a4-4c1c-a2d2-a8fa8bec7ad1
+r	java:S106b"+Replace this use of System.out by a logger.(Ó…“Èıÿÿÿÿ8Š²ŠÉş1J$d59a024a-1ea6-4063-acb3-614066c26968
+~	java:S125Q"<This block of commented-out lines of code should be removed.(¥ÇÂ“8²ŠÉş1J$cb201969-0584-4210-83da-35206dd8d73b
+r	java:S106f"+Replace this use of System.out by a logger.(½Ø ÿüÿÿÿÿ8²ŠÉş1J$41a0ee7e-4baa-461d-b36c-7365476b0dd1
+m	java:S106k"+Replace this use of System.out by a logger.(éÈïÿ8•²ŠÉş1J$e16801c4-071c-4903-9fef-6f203770b269
+r	java:S106p"+Replace this use of System.out by a logger.(ó©·°ùÿÿÿÿ8š²ŠÉş1J$147ccb5d-dbe8-48d7-bf49-9810bb7f933b
+r	java:S106u"+Replace this use of System.out by a logger.(ÖÕ­Âıÿÿÿÿ8²ŠÉş1J$d92464e9-7ae6-4578-a150-62717ce3fae0
+m	java:S106z"+Replace this use of System.out by a logger.(òæ›8 ²ŠÉş1J$6f4b7c84-4300-4fd0-bca6-0a77bef33d53
+m	java:S106~"+Replace this use of System.out by a logger.(ê¿£8¡²ŠÉş1J$bcc91500-dc61-4a53-b9d8-722cdc5ebc5b

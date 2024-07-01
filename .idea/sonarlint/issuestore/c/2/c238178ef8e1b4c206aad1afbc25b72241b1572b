@@ -1,8 +1,8 @@
 
-[
-java:S1854">Remove this useless assignment to local variable "consonants".(í²èè8œ´ŠÉþ1
-L
-java:S1481"/Remove this unused "consonants" local variable.(í²èè8ž´ŠÉþ1
-F	java:S106
-"+Replace this use of System.out by a logger.(ðº‹+8¡´ŠÉþ1
-G	java:S106"+Replace this use of System.out by a logger.(ÇÅÒŸ8£´ŠÉþ1
+
+java:S1854">Remove this useless assignment to local variable "consonants".(í²èè8œ´ŠÉþ1J$5afd655a-c96b-4c10-b604-fccd85dc2f5b
+r
+java:S1481"/Remove this unused "consonants" local variable.(í²èè8ž´ŠÉþ1J$2993883e-5ffe-4d6b-90bb-50b150aa434d
+l	java:S106
+"+Replace this use of System.out by a logger.(ðº‹+8¡´ŠÉþ1J$6911091f-595c-4d85-a585-21d3c25c0bc8
+m	java:S106"+Replace this use of System.out by a logger.(ÇÅÒŸ8£´ŠÉþ1J$f83ef42b-1556-4ce2-a99b-045ec5643aa7

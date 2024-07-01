@@ -28,7 +28,7 @@ public class Eureka {
 //                userInputWord.charAt(0) == 'b' ||
 //                userInputWord.charAt(0) == 's' ||
 //                userInputWord.charAt(0) == 'p' &&
-//                        userInputWord.contains("x,y, z")&&
+//                        !userInputWord.contains("x,y, z")&&
 //                        userInputNumber >= 10 && userInputNumber <= 9999 &&
 //                        userInputNumber%2!=0
 //        ) {
@@ -39,8 +39,6 @@ public class Eureka {
 //
 //        }
 
-//        System.out.println(2/2);
-//        System.out.println(2%2);
 
         int firstNumber = sc.nextInt();
         int secondNumber = sc.nextInt();

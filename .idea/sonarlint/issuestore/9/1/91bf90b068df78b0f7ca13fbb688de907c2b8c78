@@ -1,7 +1,4 @@
 
-X	java:S125"<This block of commented-out lines of code should be removed.(ˆ‘ä´8ŒµŠÉş1
-X	java:S125+"<This block of commented-out lines of code should be removed.(‘êËô8µŠÉş1
-G	java:S1062"+Replace this use of System.out by a logger.(İºüÑ8“µŠÉş1
-]	java:S125="<This block of commented-out lines of code should be removed.(´½™úÿÿÿÿ8•µŠÉş1
-O
-java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8—µŠÉş1
+~	java:S125"<This block of commented-out lines of code should be removed.(ˆ‘ä´8ŒµŠÉş1J$4b3c49bc-8557-4547-81ce-89a0eb0fc946
+m	java:S106/"+Replace this use of System.out by a logger.(İºüÑ8“µŠÉş1J$0af384a3-6193-4a42-bdc7-d34e928a0305
+ƒ	java:S125:"<This block of commented-out lines of code should be removed.(´½™úÿÿÿÿ8•µŠÉş1J$2326d63f-8cf8-4fb1-8bea-093d71725f80
