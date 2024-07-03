@@ -1,6 +1,6 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(τ—Θ΄
-7
-java:S1643"Use a StringBuilder instead.(ΝΉλωϋÿÿÿÿ
-@	java:S106
-"+Replace this use of System.out by a logger.(£ζ
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(τ—Θ΄J$93c000ee-e7e4-48e9-85c5-aaf0067ef12d
+]
+java:S1643"Use a StringBuilder instead.(ΝΉλωϋÿÿÿÿJ$036be42b-69b8-429e-917c-cb2a43501204
+f	java:S106
+"+Replace this use of System.out by a logger.(£ζJ$b283b655-baed-4dbd-af2c-82327b7bb7b2

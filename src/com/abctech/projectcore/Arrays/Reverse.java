@@ -2,10 +2,10 @@ package com.abctech.projectcore.Arrays;
 
 public class Reverse {
     public static void main(String[] args) {
-        int[] arr = {22,55,66,77,80};
+        int[] arr = {22, 55, 66, 77, 80};
 
-        for (int i = arr.length-1; i >0  ; i--) {
-            System.out.print(arr[i]+ ",");
+        for (int i = arr.length; i > 0; i--) {
+            System.out.print(arr[i] + ",");
 
         }
 

@@ -1,7 +1,7 @@
 
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·«›!8ÆÏ¼ì†2J$058abe29-b657-464f-af18-b37e231d7da1
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·«›!8ÆÏ¼ì†2J$a45c1b83-e2c9-45ed-ab17-2ecaa04c16ec
 d
-java:S1643"Use a StringBuilder instead.(ºŞšóùÿÿÿÿ8Ï£Áì†2J$92a585b0-e86d-42cb-9cb4-dd31af5c8cee
+java:S1643"Use a StringBuilder instead.(ºŞšóùÿÿÿÿ8Ï£Áì†2J$799de7a8-9681-4ffb-889d-019ec3166052
 k
-java:S1481"(Remove this unused "res" local variable.(”æô8§šÉì†2J$b3dd22d8-f10a-47df-a009-71eafb55937b
-l	java:S106"+Replace this use of System.out by a logger.(Ô„óY8öÏ¼ì†2J$6629fef0-f470-4c86-a5ac-11684c374b62
+java:S1481"(Remove this unused "res" local variable.(”æô8§šÉì†2J$1d36b542-6e82-41ef-b97f-b8283d79b62a
+l	java:S106"+Replace this use of System.out by a logger.(Ô„óY8öÏ¼ì†2J$a4b5eee7-6455-4b97-ac9d-3235e4476b17
