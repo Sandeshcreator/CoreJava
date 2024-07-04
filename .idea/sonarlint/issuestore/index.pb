@@ -157,3 +157,7 @@ g
 7src/com/abctech/projectcore/Arrays/OneSideNegative.java,1\b\1bb32483dc25f45b5ee1e549c1336489878c3523
 c
 3src/com/abctech/projectcore/Arrays/CountingSum.java,b\f\bf4e0e8db38c85894d8654d7e49dd5e8a4a24ef7
+d
+4src/com/abctech/projectcore/Recursion/Factorial.java,4\3\43552f1714185347d56cda0366baa06fc94f8f62
+^
+.src/com/abctech/projectcore/Recursion/GCD.java,0\a\0a95212203971877041c35e21d05c7ac577e73e6
