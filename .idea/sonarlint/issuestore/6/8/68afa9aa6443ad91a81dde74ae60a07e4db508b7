@@ -1,0 +1,4 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÀÆ½8úÒ‹‡‰2J$82e0bddb-92ac-4acf-9528-6966f00f4b84
+™	java:S116"RRename this field "roll_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óµ™Ûûÿÿÿÿ8ûÑˆ‡‰2J$abdf71dd-36b1-45c7-9530-6c8f943ecaf2
+r	java:S106"+Replace this use of System.out by a logger.(¨Ìµ­ıÿÿÿÿ8İ“‡‰2J$669ee75b-144c-40d8-a55b-874e5039c79d
