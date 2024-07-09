@@ -8,8 +8,6 @@ public class FindNumberExactlyDivisibleByThree {
      * Here you take lower limit and upper limit
      * loop should start from lower limit
      * loop should end in upper limit
-     *
-     * @param args
      */
     public static void main(String[] args) {
         FindNumberExactlyDivisibleByThree findNumberExactlyDivisibleByThree = new FindNumberExactlyDivisibleByThree();

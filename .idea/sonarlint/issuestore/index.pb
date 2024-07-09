@@ -199,3 +199,17 @@ n
 >src/com/abctech/projectcore/class_objects/mathmatics/Main.java,3\b\3beef5b60e7fe6b03d6ae663a3c398bd9f121a11
 q
 Asrc/com/abctech/projectcore/class_objects/mathmatics/Complex.java,f\3\f36dc07358dc9704d6b76bb74f59d4112b90f1cc
+\
+,src/com/abctech/projectcore/string/Main.java,4\a\4a1a5b6b651ef0819f2063f04533cc808780c666
+b
+2src/com/abctech/projectcore/string/LengthLast.java,0\f\0f1f4c4e6f90aef0ed8d1e283ae6df0bd888811e
+c
+3src/com/abctech/projectcore/string/EqualString.java,b\c\bc434054ce4c6dd512512469b1c6d514078847c0
+e
+5src/com/abctech/projectcore/string/ContainsPrint.java,0\d\0d131adf41915e8e91ac7bb3088d07fae40dcdb0
+i
+9src/com/abctech/projectcore/string/SpecialCharacters.java,d\4\d45d990bb047c2912b0ed17955d8e4838902b6c1
+d
+4src/com/abctech/projectcore/string/ReplaceSpace.java,e\7\e7754a23321ec590ef8c3ea19043ba7e5dcca0a9
+a
+1src/com/abctech/projectcore/string/FillField.java,1\7\17a29e59f11f1abb01cc1e886e0983293e25c7b1
