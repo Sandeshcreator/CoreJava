@@ -213,3 +213,15 @@ d
 4src/com/abctech/projectcore/string/ReplaceSpace.java,e\7\e7754a23321ec590ef8c3ea19043ba7e5dcca0a9
 a
 1src/com/abctech/projectcore/string/FillField.java,1\7\17a29e59f11f1abb01cc1e886e0983293e25c7b1
+i
+9src/com/abctech/projectcore/inheritance/first/Parent.java,f\b\fb206c727de2268cf3424efe93cd9b20091ca1dd
+h
+8src/com/abctech/projectcore/inheritance/first/Child.java,5\9\59de829a6cd9e6d17791e64114be0267b301386a
+j
+:src/com/abctech/projectcore/inheritance/first/Program.java,f\8\f882cdb2611979f42fead51e2a0572f32aef9331
+m
+=src/com/abctech/projectcore/inheritance/second/Rectangle.java,9\7\9761da08d9627888fd4e75a02aa5a479b4fa947d
+j
+:src/com/abctech/projectcore/inheritance/second/Square.java,4\3\4342d61b0e81dfb5ffa6e1af117a51f282043a84
+h
+8src/com/abctech/projectcore/inheritance/second/Main.java,a\8\a8cb91e5c78fca0ee369d9a70654243449de0570
