@@ -1,0 +1,6 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÄÒ£8ÀìÿŞ‰2J$0a5dc66f-374f-407a-b41c-eb47c80a4790
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó˜İÛúÿÿÿÿ8ÀìÿŞ‰2J$c68b0cce-67d1-4bd8-9b88-82d035211fef
+–	java:S116"TRename this field "roll_numb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øı´ø8ÀìÿŞ‰2J$8b3e6e8f-b11e-44bb-a11f-4837828dc540
+m	java:S106"+Replace this use of System.out by a logger.(ìÛÎÌ8ÀìÿŞ‰2J$7b988d21-427a-4f42-abc8-e00f5d0370cb
+r	java:S106"+Replace this use of System.out by a logger.(Ù½Şáüÿÿÿÿ8ÀìÿŞ‰2J$9652fb36-0996-4c0a-bd7a-e4156cfccf27
