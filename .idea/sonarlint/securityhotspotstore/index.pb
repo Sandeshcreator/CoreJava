@@ -225,3 +225,13 @@ j
 :src/com/abctech/projectcore/inheritance/second/Square.java,4\3\4342d61b0e81dfb5ffa6e1af117a51f282043a84
 h
 8src/com/abctech/projectcore/inheritance/second/Main.java,a\8\a8cb91e5c78fca0ee369d9a70654243449de0570
+h
+8src/com/abctech/projectcore/inheritance/socialmedia.java,e\0\e0d22fc8b87912f4fbc717ff89bfd06f7909f1f7
+}
+Msrc/com/abctech/projectcore/inheritance/socialmedia/CommunicationChannel.java,d\6\d6a413bd6ba13395736a92eeb159a07fd226381f
+r
+Bsrc/com/abctech/projectcore/inheritance/socialmedia/Instagram.java,b\b\bb2ba6cd9f703c301255484d5aa204ae2887ebb1
+r
+Bsrc/com/abctech/projectcore/inheritance/socialmedia/Messenger.java,a\5\a59ff90033a5144d73fae4a97b97fd054921dceb
+p
+@src/com/abctech/projectcore/inheritance/socialmedia/Program.java,4\9\492083342d19c44203fa2e280d50df72d3f2cbcc
