@@ -5,6 +5,12 @@ import java.util.Scanner;
 
 public class MainProgram {
     public static void main(String[] args) throws IOException {
+        double depositeAmount;
+        double withdrawAmount;
+        String email;
+        String mobileNumber;
+        double finalAccountAmount;
+
         Scanner scanner = new Scanner(System.in);
 
         boolean isRunning = true;
@@ -35,11 +41,22 @@ public class MainProgram {
                     bankFunctions.displayAccountDetails();
                     break;
                 case 3:
-                    System.out.println("Under dev");
+                    // This section for deposite
+                     depositeAmount = Double.parseDouble(brc.readDataFromUser("Enter amount"));
+                     email = brc.readDataFromUser("enter a email");
+                     mobileNumber = brc.readDataFromUser("enter a mobile number");
+                     finalAccountAmount = bankFunctions.depositeAmount(depositeAmount, email, mobileNumber);
+                    System.out.println((finalAccountAmount != 0) ? "deposite sucess !!\n Your new blnc is " + finalAccountAmount : "deposite fail try again");
 
                     break;
                 case 4:
-                    System.out.println("Under dev");
+                    // This section is for withdraw
+                    withdrawAmount = Double.parseDouble(brc.readDataFromUser("Enter amount"));
+                    email = brc.readDataFromUser("enter a email");
+                    mobileNumber = brc.readDataFromUser("enter a mobile number");
+                    finalAccountAmount = bankFunctions.withdrawAmount(withdrawAmount, email, mobileNumber);
+                    System.out.println((finalAccountAmount != 0) ? "   withdrawn sucess !!\n Your new blnc is " + finalAccountAmount : "withdraw fail try again");
+
 
                     break;
                 case 5:

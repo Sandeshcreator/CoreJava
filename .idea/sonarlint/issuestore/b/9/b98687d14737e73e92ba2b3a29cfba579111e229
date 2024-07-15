@@ -1,9 +1,13 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(ìÌ±›ûÿÿÿÿ8à¹ÖŠŠ2J$d53ccb6f-9fd9-45d3-b07c-fcae56470690
-r	java:S106"+Replace this use of System.out by a logger.(–œ„’úÿÿÿÿ8à¹ÖŠŠ2J$eaba7f5e-af82-4e7f-828a-46b62b56b2aa
-r	java:S106"+Replace this use of System.out by a logger.(åÕ¹ÿÿÿÿÿ8á¹ÖŠŠ2J$de4825e3-7015-4aba-a444-15d68a227d35
-r	java:S106"+Replace this use of System.out by a logger.(ò¦ïùÿÿÿÿ8â¹ÖŠŠ2J$c6298a0a-4d9a-409e-a53a-b3556b9000ae
-l	java:S106 "+Replace this use of System.out by a logger.(×˜õ$8â¹ÖŠŠ2J$57eaf4ea-8a97-4394-9903-6388fc1e05e7
-l	java:S106!"+Replace this use of System.out by a logger.(¯š´m8â¹ÖŠŠ2J$7d0a3a0c-f0eb-4135-ab1a-e71de08d687a
-r	java:S106""+Replace this use of System.out by a logger.(‚ıÜşúÿÿÿÿ8ã¹ÖŠŠ2J$bab0b93a-1fe4-4ee8-afba-d4e4bc11deee
-r	java:S106#"+Replace this use of System.out by a logger.(åÕ¹ÿÿÿÿÿ8ã¹ÖŠŠ2J$a74daf2d-3628-4edb-b931-74a1a1168312
+w
+java:S1066S"/Merge this if statement with the enclosing one.(³ÅŒµÿÿÿÿÿ8î«Æ­‹2J$1d538621-5ad4-4f4c-9f94-77c5944390aa
+r	java:S106"+Replace this use of System.out by a logger.(ìÌ±›ûÿÿÿÿ8€¬Æ­‹2J$785cb391-ad4e-4f3a-9e47-f51eef167a13
+r	java:S106"+Replace this use of System.out by a logger.(–œ„’úÿÿÿÿ8€¬Æ­‹2J$25b84786-627d-427e-885a-e707b0ac6a34
+r	java:S106"+Replace this use of System.out by a logger.(åÕ¹ÿÿÿÿÿ8€¬Æ­‹2J$03f21c04-49eb-4d6a-a1d0-d11494934954
+r	java:S106"+Replace this use of System.out by a logger.(ò¦ïùÿÿÿÿ8€¬Æ­‹2J$311777d4-793d-4d57-85a3-64e13fc4d0f2
+l	java:S106 "+Replace this use of System.out by a logger.(×˜õ$8€¬Æ­‹2J$1f94a483-3f44-4f0e-8750-932d9eba9245
+l	java:S106!"+Replace this use of System.out by a logger.(¯š´m8€¬Æ­‹2J$238af9e9-38e0-4a0a-b757-d4f456233793
+r	java:S106""+Replace this use of System.out by a logger.(‚ıÜşúÿÿÿÿ8€¬Æ­‹2J$8308c9ea-77db-47a5-8889-c8749dc85630
+r	java:S106#"+Replace this use of System.out by a logger.(åÕ¹ÿÿÿÿÿ8€¬Æ­‹2J$f724e4ef-cd0f-4738-a43f-f11397392488
+m	java:S1069"+Replace this use of System.out by a logger.(‚ûÈæ8¬Æ­‹2J$1084945d-ee34-4853-9394-391790a6ce7b
+m	java:S106F"+Replace this use of System.out by a logger.(‚ûÈæ8¬Æ­‹2J$62409dd2-12ba-4fad-8c4c-9a20d814b100

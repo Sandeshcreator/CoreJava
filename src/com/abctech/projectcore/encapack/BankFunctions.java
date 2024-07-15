@@ -16,7 +16,7 @@ public class BankFunctions {
         newAccount.setOverdraftAmount(1000);
 
         int newIndex = getAvailableIndexOfAccount();
-        if (newIndex!= 100) {
+        if (newIndex != 100) {
             bankAccounts[newIndex] = newAccount;
             System.out.println("Bank account created sucessfully !!!!!!!!!!");
         } else {
@@ -49,7 +49,55 @@ public class BankFunctions {
         return 100;
 
     }
+
+
+    public double depositeAmount(double depositeAmount, String email, String mobileNumber) {
+        int currentBankIndex = findBankAccountIndex(mobileNumber, email);
+        if (currentBankIndex == 100) {
+            System.out.println("not matched bank");
+            return 0;
+        } else {
+            bankAccounts[currentBankIndex].setBalance
+                    (bankAccounts[currentBankIndex].getBalance() + depositeAmount);
+            return bankAccounts[currentBankIndex].getBalance();
+        }
+
+    }
+
+    public double withdrawAmount(double withdrawAmount, String email, String mobileNumber) {
+        int currentBankIndex = findBankAccountIndex(mobileNumber, email);
+        if (currentBankIndex == 100) {
+            System.out.println("not matched bank");
+            return 0;
+        } else {
+            bankAccounts[currentBankIndex].setBalance
+                    (bankAccounts[currentBankIndex].getBalance() - withdrawAmount);
+            return bankAccounts[currentBankIndex].getBalance();
+        }
+    }
+
+    public int findBankAccountIndex(String mobileNumber, String email) {
+        int currentBankIndex = 100;
+        for (int i = 0; i < bankAccounts.length; i++) {
+            if (bankAccounts[i] != null) {
+                if (bankAccounts[i].getMobileNumber().equals(mobileNumber) && bankAccounts[i].getEmail().equals(email)) {
+                    currentBankIndex = i;
+                    break;
+                }
+            }
+        }
+        return currentBankIndex;
+    }
 }
+
+
+
+
+
+
+
+
+
 
 
 

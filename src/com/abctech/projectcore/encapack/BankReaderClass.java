@@ -19,7 +19,13 @@ public class BankReaderClass {
         bankAccount.setBalance(Double.parseDouble(bufferedReader.readLine()));
 
         return bankAccount;
+    }
 
+    public String readDataFromUser(String message) throws IOException {
+        System.out.println(message);
+        return  bufferedReader.readLine();
 
     }
+
+
 }
