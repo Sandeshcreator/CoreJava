@@ -1,6 +1,9 @@
 package com.abctech.projectcore.encapack;
 
+import java.io.IOException;
+
 public class BankFunctions {
+    BankReaderClass brc = new BankReaderClass();
 
     BankAccount[] bankAccounts = new BankAccount[5];
 
@@ -64,17 +67,42 @@ public class BankFunctions {
 
     }
 
-    public double withdrawAmount(double withdrawAmount, String email, String mobileNumber) {
+    public double withdrawAmount(double withdrawAmount, String email, String mobileNumber) throws IOException {
         int currentBankIndex = findBankAccountIndex(mobileNumber, email);
+
         if (currentBankIndex == 100) {
             System.out.println("not matched bank");
             return 0;
         } else {
-            bankAccounts[currentBankIndex].setBalance
-                    (bankAccounts[currentBankIndex].getBalance() - withdrawAmount);
-            return bankAccounts[currentBankIndex].getBalance();
-        }
+            if (bankAccounts[currentBankIndex].getBalance() > withdrawAmount) {
+                bankAccounts[currentBankIndex].setBalance
+                        (bankAccounts[currentBankIndex].getBalance() - withdrawAmount);
+                return bankAccounts[currentBankIndex].getBalance();
+            } else {
+
+                System.out.println("your ammount is greater than main blnc we are processing to overdraft which will be added to your main blnc");
+                 String overdew = brc.readDataFromUser("Enter y/n");
+                 if (overdew.equals("y")) {
+                     System.out.println("overdraft sucess ");
+                     bankAccounts[currentBankIndex].setOverdraftAmount
+                             (bankAccounts[currentBankIndex].getOverdraftAmount() + withdrawAmount);
+                     System.out.println("overdraft ammount is  "+ bankAccounts[currentBankIndex].getOverdraftAmount());
+                                     bankAccounts[currentBankIndex].setBalance
+                        (bankAccounts[currentBankIndex].getBalance() + bankAccounts[currentBankIndex].getOverdraftAmount());
+                     return bankAccounts[currentBankIndex].getBalance();
+                 }else {
+                     return 0.0;
+                 }
+
+
+                 }
+
+            }
+
+
+
     }
+
 
     public int findBankAccountIndex(String mobileNumber, String email) {
         int currentBankIndex = 100;

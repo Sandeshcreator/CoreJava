@@ -55,7 +55,7 @@ public class MainProgram {
                     email = brc.readDataFromUser("enter a email");
                     mobileNumber = brc.readDataFromUser("enter a mobile number");
                     finalAccountAmount = bankFunctions.withdrawAmount(withdrawAmount, email, mobileNumber);
-                    System.out.println((finalAccountAmount != 0) ? "   withdrawn sucess !!\n Your new blnc is " + finalAccountAmount : "withdraw fail try again");
+                    System.out.println((finalAccountAmount != 0) ? "   withdrawn sucess !!\n Your new blnc is " + finalAccountAmount : "withdrawn fail try again");
 
 
                     break;
