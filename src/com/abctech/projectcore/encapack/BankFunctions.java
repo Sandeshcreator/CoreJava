@@ -16,7 +16,6 @@ public class BankFunctions {
         newAccount.setEmail(emailAddress);
         newAccount.setMobileNumber(mobileNumber);
         newAccount.setBalance(initialBlance);
-        newAccount.setOverdraftAmount(1000);
 
         int newIndex = getAvailableIndexOfAccount();
         if (newIndex != 100) {

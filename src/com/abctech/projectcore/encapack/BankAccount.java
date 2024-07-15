@@ -62,8 +62,9 @@ public class BankAccount {
     public void setOverdraftAmount(double overdraftAmount) {
         if (overdraftAmount > 1000) {
             this.overdraftAmount = overdraftAmount;
+        } else {
+            this.overdraftAmount = 1000;
         }
-        this.overdraftAmount = 1000;
 
 
     }
