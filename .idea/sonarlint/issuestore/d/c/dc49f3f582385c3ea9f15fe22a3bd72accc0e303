@@ -1,0 +1,6 @@
+
+
+java:S5993"9Change the visibility of this constructor to "protected".(åó©ùÿÿÿÿ8Ì‡ÔÖ‹2J$3f2e6cec-b207-46f8-a357-5a4d586a9d03
+r	java:S106"+Replace this use of System.out by a logger.(ıäˆòøÿÿÿÿ8Ò‡ÔÖ‹2J$218deb8c-d338-430f-acba-ac43ecc936ba
+•	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àìëºÿÿÿÿÿ8³‡áÖ‹2J$a2fe8b5d-b878-477f-ba8e-3d9de664fc9d
+m	java:S106"+Replace this use of System.out by a logger.(¤ƒ’Ê8Ö‡ÔÖ‹2J$a1277e3c-e05b-4f12-b30d-dcddf7e3e6c8
