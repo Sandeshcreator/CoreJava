@@ -9,12 +9,16 @@ public class BankReaderClass {
 
     public BankAccount readNewAccountDetails() throws IOException {
         BankAccount bankAccount = new BankAccount();
+
         System.out.println("Enter your name");
         bankAccount.setAccountHolderName(bufferedReader.readLine());
+
         System.out.println("Enter email address");
         bankAccount.setEmail(bufferedReader.readLine());
+
         System.out.println("Enter your mobile Number");
         bankAccount.setMobileNumber(bufferedReader.readLine());
+
         System.out.println("Enter account opening balance");
         bankAccount.setBalance(Double.parseDouble(bufferedReader.readLine()));
 
@@ -23,9 +27,7 @@ public class BankReaderClass {
 
     public String readDataFromUser(String message) throws IOException {
         System.out.println(message);
-        return  bufferedReader.readLine();
+        return bufferedReader.readLine();
 
     }
-
-
 }

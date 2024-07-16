@@ -18,6 +18,7 @@ public class BankFunctions {
         newAccount.setBalance(initialBlance);
 
         int newIndex = getAvailableIndexOfAccount();
+
         if (newIndex != 100) {
             bankAccounts[newIndex] = newAccount;
             System.out.println("Bank account created sucessfully !!!!!!!!!!");
@@ -42,12 +43,13 @@ public class BankFunctions {
 
 
     public int getAvailableIndexOfAccount() {
+
         for (int i = 0; i < bankAccounts.length; i++) {
             if (bankAccounts[i] == null) {
                 return i;
             }
-
         }
+
         return 100;
 
     }
@@ -80,25 +82,30 @@ public class BankFunctions {
             } else {
 
                 System.out.println("your ammount is greater than main blnc we are processing to overdraft which will be added to your main blnc");
-                 String overdew = brc.readDataFromUser("Enter y/n");
-                 if (overdew.equals("y")) {
-                     System.out.println("overdraft sucess ");
-                     bankAccounts[currentBankIndex].setOverdraftAmount
-                             (bankAccounts[currentBankIndex].getOverdraftAmount() + withdrawAmount);
-                     System.out.println("overdraft ammount is  "+ bankAccounts[currentBankIndex].getOverdraftAmount());
-                                     bankAccounts[currentBankIndex].setBalance
-                        (bankAccounts[currentBankIndex].getBalance() + bankAccounts[currentBankIndex].getOverdraftAmount());
-                     return bankAccounts[currentBankIndex].getBalance();
-                 }else {
-                     return 0.0;
-                 }
-
-
-                 }
-
+                String overdew = brc.readDataFromUser("Enter y/n");
+                if (overdew.equals("y")) {
+                    System.out.println("overdraft sucess ");
+                    bankAccounts[currentBankIndex].setOverdraftAmount
+                            (bankAccounts[currentBankIndex].getOverdraftAmount() + withdrawAmount);
+                    System.out.println("overdraft ammount is  " + bankAccounts[currentBankIndex].getOverdraftAmount());
+                    bankAccounts[currentBankIndex].setBalance
+                            (bankAccounts[currentBankIndex].getBalance() + bankAccounts[currentBankIndex].getOverdraftAmount());
+                    return bankAccounts[currentBankIndex].getBalance();
+                } else {
+                    return 0.0;
+                }
             }
+        }
+    }
 
-
+    public double checkBalance(String mobileNumber, String email) {
+        int currentBankIndex = findBankAccountIndex(mobileNumber, email);
+        if (currentBankIndex == 100) {
+            System.out.println("not matched user detail");
+            return 0;
+        } else {
+            return bankAccounts[currentBankIndex].getBalance();
+        }
 
     }
 

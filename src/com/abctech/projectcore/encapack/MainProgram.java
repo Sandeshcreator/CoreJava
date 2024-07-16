@@ -42,10 +42,10 @@ public class MainProgram {
                     break;
                 case 3:
                     // This section for deposite
-                     depositeAmount = Double.parseDouble(brc.readDataFromUser("Enter amount"));
-                     email = brc.readDataFromUser("enter a email");
-                     mobileNumber = brc.readDataFromUser("enter a mobile number");
-                     finalAccountAmount = bankFunctions.depositeAmount(depositeAmount, email, mobileNumber);
+                    depositeAmount = Double.parseDouble(brc.readDataFromUser("Enter amount"));
+                    email = brc.readDataFromUser("enter a email");
+                    mobileNumber = brc.readDataFromUser("enter a mobile number");
+                    finalAccountAmount = bankFunctions.depositeAmount(depositeAmount, email, mobileNumber);
                     System.out.println((finalAccountAmount != 0) ? "deposite sucess !!\n Your new blnc is " + finalAccountAmount : "deposite fail try again");
 
                     break;
@@ -60,8 +60,10 @@ public class MainProgram {
 
                     break;
                 case 5:
-                    System.out.println("Under dev");
-
+                    email = brc.readDataFromUser("enter a email");
+                    mobileNumber = brc.readDataFromUser("enter a mobile number");
+                    finalAccountAmount = bankFunctions.checkBalance(mobileNumber, email);
+                    System.out.println((finalAccountAmount != 0) ? "Your new blnc is " + finalAccountAmount : "try again");
                     break;
                 case 6:
                     isRunning = false;
