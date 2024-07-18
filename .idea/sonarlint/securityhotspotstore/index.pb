@@ -291,3 +291,9 @@ i
 9src/com/abctech/projectcore/interfacedemo/bank/BankC.java,b\1\b11a00a3c9fd578c5e0c74cddaca0e10d42c7179
 l
 <src/com/abctech/projectcore/interfacedemo/bank/MainBank.java,4\e\4e4d9b78166af24dd9b14c3b940e6e36b8a69fab
+d
+4src/com/abctech/projectcore/arrays/SortingArray.java,a\c\ac66104042620fb043864f101c61e2ecf974aa41
+]
+-src/com/abctech/projectcore/arrays/Sum13.java,3\c\3c82075ac12a278a521b38d41b481fef2af5c02a
+]
+-src/com/abctech/projectcore/arrays/Sum67.java,1\1\11a8d91e517cee72de62c81192272577ecf64282

@@ -1,0 +1,6 @@
+
+š	java:S127
+"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÖÚª8Ê‰Å Œ2J$ea4dc87e-d84f-4cd6-9eae-33c94870f715
+p
+java:S1481"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ8Û‰Å Œ2J$bc67da0e-2e3f-46fa-9aba-f474bf2ce389
+m	java:S106"+Replace this use of System.out by a logger.(ïŸí¹8½îÅ Œ2J$0d18f110-0834-4225-a312-4a8f09feec7a
