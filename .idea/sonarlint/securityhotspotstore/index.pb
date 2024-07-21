@@ -297,3 +297,7 @@ d
 -src/com/abctech/projectcore/arrays/Sum13.java,3\c\3c82075ac12a278a521b38d41b481fef2af5c02a
 ]
 -src/com/abctech/projectcore/arrays/Sum67.java,1\1\11a8d91e517cee72de62c81192272577ecf64282
+g
+7src/com/abctech/projectcore/arrays/DesireArraySize.java,8\0\80bdcc0bf03d8ff64ac22680b1e486fc4bbd5ba8
+^
+.src/com/abctech/projectcore/arrays/Hash12.java,5\a\5a5b4454d2c74b6b38e7ba8023de8722e61783f1
