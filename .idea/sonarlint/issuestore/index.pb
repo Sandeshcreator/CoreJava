@@ -301,3 +301,15 @@ g
 7src/com/abctech/projectcore/arrays/DesireArraySize.java,8\0\80bdcc0bf03d8ff64ac22680b1e486fc4bbd5ba8
 ^
 .src/com/abctech/projectcore/arrays/Hash12.java,5\a\5a5b4454d2c74b6b38e7ba8023de8722e61783f1
+f
+6src/com/abctech/projectcore/exceptions/ThreeError.java,c\7\c73a1c800fa458d8b6e91bddfab5fb56eca54741
+i
+9src/com/abctech/projectcore/exceptions/ArthIllegalEx.java,a\9\a98d29372694ee471379783fc231eac36993bc12
+e
+5src/com/abctech/projectcore/exceptions/MaxExeced.java,c\7\c7b09a5c4b8c94c607ceeea6503bf5494576f562
+w
+Gsrc/com/abctech/projectcore/exceptions/customarr/MyCustomException.java,5\9\5944800ccb45a88dce26514f9675056b61fb160f
+j
+:src/com/abctech/projectcore/exceptions/customarr/Main.java,8\9\8947f4449b882e496e62bbc8747854816fdd08c2
+s
+Csrc/com/abctech/projectcore/exceptions/methodexecp/MainProgram.java,0\f\0f542c590faa0c298113c549f84cccb1c9c9cc60
