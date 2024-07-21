@@ -27,7 +27,7 @@ public class MainProgram {
 
     public static void validateIndex(int index) throws MyCustomException {
         if (index < 0 || index >= numb.length) {
-            throw new MyCustomException("Index out of bbbb.");
+            throw new MyCustomException("Index out of bound.");
         }
         System.out.println("Value at index " + index + ": " + numb[index]);
     }
