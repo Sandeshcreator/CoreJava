@@ -1,0 +1,11 @@
+
+
+java:S1192"MDefine a constant instead of duplicating this literal "time taken :" 4 times.(€°µó8µ»ï2J$f0203342-68e2-42c0-ae33-dc927c96e6a3
+­
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(è¸Ëıúÿÿÿÿ8¸»ï2J$110075f2-6a3b-4f6c-959b-6640b0fe105f
+¨
+java:S1149;"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(™–éœ8¸»ï2J$52196a8b-6821-4af2-b48f-a847f027faf7
+m	java:S106"+Replace this use of System.out by a logger.(€°µó8½»ï2J$00c9a508-22f6-4617-b5dc-4e24599d33f6
+m	java:S106"+Replace this use of System.out by a logger.(€°µó8¿»ï2J$67c2bfd4-1f32-41ce-8b70-2ce5187ff5da
+m	java:S1067"+Replace this use of System.out by a logger.(·ôŞÆ8Ã»ï2J$88c5a11a-c27d-4c85-b592-092013124b51
+r	java:S106Q"+Replace this use of System.out by a logger.(›á®¶üÿÿÿÿ8Å»ï2J$cde46c8b-c528-455b-84df-a90941ef0fd0
