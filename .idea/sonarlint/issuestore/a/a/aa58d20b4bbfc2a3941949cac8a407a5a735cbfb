@@ -1,0 +1,10 @@
+
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßý…¶8ëÑûñŽ2J$daf3d93e-dfee-41f2-bdc1-502cf0f86028
+Y
+java:S1854"<Remove this useless assignment to local variable "hashSet1".(ßý…¶8¯©µòŽ2
+r	java:S106"+Replace this use of System.out by a logger.(’‘´Áúÿÿÿÿ8é¬üñŽ2J$b3877470-d290-4306-8b79-3d55d5d793d4
+y
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8Ç€ûñŽ2J$890bad66-e4cc-47ac-bb8b-4dc698bf1e0b
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8È€ûñŽ2J$c68c98a8-7be5-41b3-b46a-1812e757d382

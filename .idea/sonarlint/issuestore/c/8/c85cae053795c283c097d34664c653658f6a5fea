@@ -1,0 +1,11 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(µø½ã8ïÂÕñ2J$e31550c7-0709-4f7f-874a-d6e63a549013
+r	java:S106"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8ôÂÕñ2J$6ffe55be-a84f-4f18-944e-f2e086c3e614
+r	java:S106"+Replace this use of System.out by a logger.(»ùÈñûÿÿÿÿ8ôÂÕñ2J$13e31fb5-8d44-4714-9a41-b3570fa3c9b3
+r	java:S106"+Replace this use of System.out by a logger.(†ä¸Öùÿÿÿÿ8ùÂÕñ2J$bf8472f2-425b-402f-8119-e8c3c09204bf
+r	java:S106"+Replace this use of System.out by a logger.(—ãà›ùÿÿÿÿ8úÂÕñ2J$00751215-0cec-4fa1-919c-baca7fce01e4
+t
+java:S1602",Remove useless curly braces around statement(Œ³¯¸ıÿÿÿÿ8úÂÕñ2J$f2ccf48d-6d3c-4276-bfe8-f333a772d54d
+ˆ
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Œ³¯¸ıÿÿÿÿ8Ú‹Öñ2J$3f28f285-858f-405d-ba42-0174e6452b98
+r	java:S106"+Replace this use of System.out by a logger.(†ä¸Öùÿÿÿÿ8§ÃÕñ2J$fca6ad9e-80eb-455f-9705-0699d1fd0a1b

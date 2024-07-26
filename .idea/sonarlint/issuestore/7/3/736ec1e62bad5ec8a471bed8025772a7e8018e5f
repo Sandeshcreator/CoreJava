@@ -1,0 +1,8 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ş›‹8…ıåñ2J$dcac221e-00cd-455c-947d-d86069efe552
+p
+java:S2114"(Remove or correct this "removeAll" call.(Ï÷¶”ÿÿÿÿÿ8†ıåñ2J$f06b057c-05d3-4015-bdbe-625c31cdd1df
+m	java:S106"+Replace this use of System.out by a logger.(ş›‹8–Ÿæñ2J$c97ca218-b7de-4ff1-87d6-d6c57293d661
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(÷â¥¿üÿÿÿÿ8ÀÖíñ2J$4134e99b-0dc7-48de-86f6-34d4501bd1a8
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8‡ıåñ2J$2c6d4c08-52a5-4b6a-84bb-8e836c1e26c2
