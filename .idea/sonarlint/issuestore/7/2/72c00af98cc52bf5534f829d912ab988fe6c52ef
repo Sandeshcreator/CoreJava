@@ -1,0 +1,7 @@
+
+z
+java:S1854"7Remove this useless assignment to local variable "arr".(ôşß‹8ŒæÈœ2J$abe5c35f-f703-483e-84d9-afb46b2c9198
+k
+java:S1481"(Remove this unused "arr" local variable.(ôşß‹8æÈœ2J$d9b8a6f4-0083-4ddb-8a6c-c1b54a0f0712
+r	java:S106"+Replace this use of System.out by a logger.(Ê¾‘şÿÿÿÿ8Ì“ËŸ2J$26a6c92e-1ae0-4360-ae0b-5b033b8102ec
+r	java:S106"+Replace this use of System.out by a logger.(í Âõøÿÿÿÿ8Ì“ËŸ2J$e97df6ff-b9e6-4d0a-8a84-81a29239ec76
