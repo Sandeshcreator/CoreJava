@@ -1,6 +1,7 @@
 package com.abctech.projectcore.string;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.Scanner;
 
 public class ContainsPrint {
@@ -14,11 +15,14 @@ public class ContainsPrint {
 
         System.out.println("Enter a string:");
         String userInput = scanner.nextLine();
-        if (userInput.contains("apple")){
-            String[] arr = new String[]{"apple"};
-            System.out.println(arr);
 
-        }
+//        if (userInput.contains("apple")){
+//            String[] arr = {"apple"};
+//
+//            for (String s : arr) {
+//                System.out.println(s);
+//            }
+
 
     }
 

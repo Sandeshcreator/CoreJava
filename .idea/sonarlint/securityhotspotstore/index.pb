@@ -427,3 +427,5 @@ m
 =src/com/abctech/projectcore/collections/queue/deque/Main.java,d\4\d4ea4b9a6726ecac676658caea47ecf729c75d8e
 p
 @src/com/abctech/projectcore/collections/queue/deque/Program.java,5\7\5753b711eca130ed71baf594ed2b706c82f1b069
+…
+Usrc/com/abctech/projectcore/collections/queue/priorityqueue/MaximumPriorityqueue.java,0\9\09b416a245f4b1dd0b84789e534ec6e102f11450

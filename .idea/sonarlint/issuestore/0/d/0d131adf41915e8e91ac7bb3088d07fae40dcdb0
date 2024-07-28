@@ -1,5 +1,11 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(§ã¨€8Ê‡Å²‰2J$1f6644a4-f0b1-47da-8e11-733009011741
-r	java:S106"+Replace this use of System.out by a logger.(†ñÀÌıÿÿÿÿ8Ï‡Å²‰2J$178f3389-59a8-4c2b-81ee-b8ee25709f82
-u
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ô¬Å²‰2J$44908540-92aa-4ca3-9b29-b72e357ea315
+Z
+java:S1854"=Remove this useless assignment to local variable "userInput".(áÌÆş8Ûä»½2
+m	java:S106"+Replace this use of System.out by a logger.(§ã¨€8™ôº½2J$660a7e9d-8865-48e2-bab0-4ac4b4ad4485
+K
+java:S1481".Remove this unused "userInput" local variable.(áÌÆş8ßä»½2
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(İœ÷«şÿÿÿÿ8œôº½2J$ca6f5c7f-80b7-41e5-ac82-a62d9c496b83
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ää»½2
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ää»½2
