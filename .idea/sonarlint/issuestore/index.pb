@@ -487,3 +487,11 @@ o
 Ksrc/com/abctech/projectcore/collections/comparator/RollNumberComprator.java,7\9\79aa52a6a797954ab32dc496c864cb134c831b21
 u
 Esrc/com/abctech/projectcore/collections/comparator/NameComprator.java,d\0\d099225a547f45572217de1b761a0956a12db6bb
+p
+@src/com/abctech/projectcore/advanceconcept/generic/GenClass.java,5\3\536a081457f169fdf497fa65d09625da7d5f57d2
+l
+<src/com/abctech/projectcore/advanceconcept/generic/Main.java,4\f\4fe1c63dce9302ab0d3306186dbb6d8464b518b2
+u
+Esrc/com/abctech/projectcore/advanceconcept/generic/wildcard/Main.java,b\4\b4f87ece7cd6ff621a8516d2cd83efd990019c7c
+€
+Psrc/com/abctech/projectcore/advanceconcept/generic/wildcard/WildcardExample.java,6\5\6511632a07f546ac7de7a143a1fe5231df60fe2f
