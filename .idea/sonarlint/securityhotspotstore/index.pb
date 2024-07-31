@@ -495,3 +495,11 @@ u
 Esrc/com/abctech/projectcore/advanceconcept/generic/wildcard/Main.java,b\4\b4f87ece7cd6ff621a8516d2cd83efd990019c7c
 €
 Psrc/com/abctech/projectcore/advanceconcept/generic/wildcard/WildcardExample.java,6\5\6511632a07f546ac7de7a143a1fe5231df60fe2f
+‚
+Rsrc/com/abctech/projectcore/advanceconcept/lambda/fucationalinterface/Predict.java,5\2\526d704253ccad02f0a3af4a0a8c2f26e4cbbd90
+
+Osrc/com/abctech/projectcore/advanceconcept/lambda/fucationalinterface/Main.java,c\0\c03f71e21f988096e4bda0f058c2b33b956ea7ec
+›
+ksrc/com/abctech/projectcore/advanceconcept/lambda/fucationalinterface/CustomFunctionalInterfaceExample.java,5\0\50b771f72f94f64f18895d0232ebeb29a10cd460
+Š
+Zsrc/com/abctech/projectcore/advanceconcept/lambda/fucationalinterface/SupplierExample.java,c\b\cb1ef6b6ac211b609a8a4bc58c9652c0dbc44d56
