@@ -8,7 +8,7 @@ interface Supplier<T> {
 
 public class SupplierExample {
     public static void main(String[] args) {
-        Supplier<String> supplier= ()->"hello supplier";
+        Supplier<String> supplier = () -> "hello supplier";
         System.out.println(supplier.get());
 
     }
