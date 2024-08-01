@@ -1,0 +1,13 @@
+
+‹
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ı¸’8à†ë2J$912942b8-1143-45c9-9522-9c95b5a83b19
+
+java:S1854">Remove this useless assignment to local variable "fileReader".(ı¸’8à†ë2J$b53022f9-8468-47b1-b333-073700f7b0b8
+r	java:S106"+Replace this use of System.out by a logger.(•Îû§øÿÿÿÿ8à†ë2J$8e0bb6ac-936f-4234-a6a8-90e0a98272d6
+r
+java:S1481"/Remove this unused "fileReader" local variable.(ı¸’8à†ë2J$68d571aa-1587-4b21-b143-822642ccbced
+r	java:S106"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8à†ë2J$69039ca2-95f7-4429-8b74-c665db5d6278
+r	java:S106"+Replace this use of System.out by a logger.(İíÇ¹ÿÿÿÿÿ8à†ë2J$3be588a2-43be-448b-8d21-c3c29fcdbc64
+r	java:S106!"+Replace this use of System.out by a logger.(å»ÈÂùÿÿÿÿ8à†ë2J$9e3330ac-b4be-45fc-a9ad-fd070c348033
+‚
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ğ†ë2J$e3c5accd-91c8-4cd8-a1fa-8d93756de83a
