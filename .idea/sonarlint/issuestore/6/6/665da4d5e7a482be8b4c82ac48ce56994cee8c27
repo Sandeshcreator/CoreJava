@@ -1,0 +1,12 @@
+
+‹
+java:S1854"CRemove this useless assignment to local variable "stringArrayList".(Âÿäúÿÿÿÿ8Ãæ¼‘2J$a4230cd1-9c89-41f1-8d7b-1f130f197f5f
+r	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8Èæ¼‘2J$95a68c29-c96e-46e1-ad54-8066409a9d30
+r	java:S106"+Replace this use of System.out by a logger.(ÏŠñğıÿÿÿÿ8Èæ¼‘2J$d73af931-f07f-4f0b-8a8a-97b62137921d
+Â
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(•¢‰¿şÿÿÿÿ8Éæ¼‘2J$f6e23995-bd56-48ae-99e9-b4dc551200bb
+l	java:S106 "+Replace this use of System.out by a logger.(¨®ÚO8Ìæ¼‘2J$f060b014-468e-4342-9dad-fb4c5f686e33
+ƒ
+java:S1612$"@Replace this lambda with method reference 'System.out::println'.(¤¼‘¸8Íæ¼‘2J$086ec496-ed8f-4e65-8623-4d8c02d3e197
+m	java:S106$"+Replace this use of System.out by a logger.(¤¼‘¸8Íæ¼‘2J$e73a960e-2389-4c4f-bb9f-cdad1283db49
+ƒ	java:S125'"<This block of commented-out lines of code should be removed.(‰¶Õ€øÿÿÿÿ8Îæ¼‘2J$a06c3f08-344b-480c-8890-a259d45ec3e5

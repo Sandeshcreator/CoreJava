@@ -1,0 +1,17 @@
+
+
+java:S2095&"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Á×ïùÿÿÿÿ8¥Ô‘½‘2J$a560bffe-e060-4b08-949f-ea14838e6306
+’
+java:S1854"JRemove this useless assignment to local variable "distinctUsingCollector".(ÌÃ‹Ûÿÿÿÿÿ8ªÔ‘½‘2J$5448520c-d3b2-45f2-9692-5ac166a2fb5e
+m	java:S106"+Replace this use of System.out by a logger.(şõ‘›8²Ô‘½‘2J$b526bb8c-c3f3-4b6b-8685-66e8640d6a31
+m	java:S106"+Replace this use of System.out by a logger.(‡Âî8×ã“½‘2J$cc952d0b-6a75-499e-b156-32227987ca57
+Â
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(Ğâíˆúÿÿÿÿ8®Ô‘½‘2J$242d4dc7-ce55-482d-b8d3-595771c55993
+ƒ
+java:S1481";Remove this unused "distinctUsingCollector" local variable.(ÌÃ‹Ûÿÿÿÿÿ8°Ô‘½‘2J$d9cf8e21-3374-4524-8b4c-496cf9459caa
+r	java:S106"+Replace this use of System.out by a logger.(¾—Šøÿÿÿÿ8Ùã“½‘2J$36b53526-be29-4f77-9872-1e27873662fd
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¢ãõÄÿÿÿÿÿ8²Ô‘½‘2J$16ab0a3a-fcaf-4ae8-99ca-661c7443a5cb
+€
+java:S1854""8Remove this useless assignment to local variable "file".(´ ô üÿÿÿÿ8´Ô‘½‘2J$069ad86d-f539-4821-ace3-bf18594840f1
+q
+java:S1481"")Remove this unused "file" local variable.(´ ô üÿÿÿÿ8½Ô‘½‘2J$26467fc3-0e41-4d9a-a8e8-83eae9f0622b
